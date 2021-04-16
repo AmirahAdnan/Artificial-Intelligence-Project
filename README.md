@@ -36,9 +36,9 @@ So much are the advantages of this system that it would take a long article to n
 
 But today, our prime focus will be on one of the many applications of facial recognition technology, and that is using face recognition based attendance system.
 
+![fs_education_mob_img_banner](https://user-images.githubusercontent.com/66559983/115048576-4a4e4700-9f0c-11eb-922c-1bf62aa36da9.png)
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
-Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
+Figure 1 shows the AI output of detecting face for attandance.
 
 
 ## C.  DATASET
@@ -61,7 +61,8 @@ We’ll wrap up the post by looking at the results of applying our face attandan
 
 There is Three-phase of face attandance detector as shown in Figure 2:
 
-![Figure 2](https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348.jpeg)
+(![0_oJIRaoERCUHoyylG_](https://user-images.githubusercontent.com/66559983/115047080-c21b7200-9f0a-11eb-88f2-0c6228cc25c7.png)
+
 Figure 2: Phases and individual steps for building a face attandance detector with computer vision and deep learning 
 
 In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
@@ -77,7 +78,8 @@ We’ll review each of these phases and associated subsets in detail in the rema
 
 Our face attandance detection dataset as shown in Figure 3:
 
-![Figure 3](https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23.png)
+![1_qK_TqFBjxq45_vfpgdJrwQ](https://user-images.githubusercontent.com/66559983/115047537-30f8cb00-9f0b-11eb-9334-3a3098c34cce.png)
+
 
 Figure 3: A face attandance detection dataset consists of their own face id images. 
 
@@ -199,7 +201,9 @@ You can then launch the attandance detector in real-time video streams using the
 - INFO] loading face mask detector model...
 - [INFO] starting video stream...
 
-[![Figure5](https://img.youtube.com/vi/wYwW7gAYyxw/0.jpg)](https://www.youtube.com/watch?v=wYwW7gAYyxw "Figure5")
+
+
+![0_WtQqicLOVn1TukA2_](https://user-images.githubusercontent.com/66559983/115048873-a6b16680-9f0c-11eb-9cd1-7772e80c9885.png)
 
 Figure 5: Attandance detector in real-time video streams
 
@@ -223,7 +227,8 @@ We then took this face attandance classifier and applied it to both images and r
 
 Our face attandance detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+[![demo](https://www.youtube.com/watch?v=sz25xxF_AVE)](https://www.youtube.com/watch?v=sz25xxF_AVE "demo")
+
 
 
 
