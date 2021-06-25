@@ -320,10 +320,10 @@ You can then launch the face recognition attendance detector in real-time video 
 </p>
 
 <p align="center">
-Figure 10: Face Recognition Attendance in real-time video streams.
+Figure 11: Face Recognition Attendance in real-time video streams.
 </p>
 
-In Figure 10, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
 
 
 _____________________________________________________________
