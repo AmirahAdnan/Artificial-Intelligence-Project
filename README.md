@@ -17,7 +17,7 @@ Project Title: Face Recognition Attendance System
 **Team Members:** 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg" alt="example">
+  <img width="650" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg" alt="example">
 
  _____________________________________________________________
   </p>
@@ -59,7 +59,7 @@ Facial recognition technology is a system or software which is capable enough to
 In this article, our focus will be on one of the many applications of facial recognition technology, which is **Face Recognition Attendance System**.
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123439769-a4524380-d604-11eb-859f-689e8bd42dca.png" alt="example">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123439769-a4524380-d604-11eb-859f-689e8bd42dca.png" alt="example">
 </p>
 
 <p align="center">
