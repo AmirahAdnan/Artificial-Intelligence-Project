@@ -1,5 +1,5 @@
 
-![logo_utem](https://user-images.githubusercontent.com/image/newlogo/LogoJawi.png)
+![logo_utem](https://www.utem.edu.my/image/newlogo/LogoJawi.png)
 
 
 # Artificial Intelligence Project
