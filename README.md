@@ -8,7 +8,7 @@
 **Team Members:** 
 
 
-:curly_haired_woman: Nurfarzana Amirah Binti Adnan			(B031910024)
+    :curly_haired_woman: Nurfarzana Amirah Binti Adnan			(B031910024)
 
 :curly_haired_woman: Syaqirah Nur Fatihah Binti Sazalee		(B031910082)
 
