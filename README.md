@@ -98,11 +98,11 @@ Figure 2: Phases and individual steps for building a face attendance detector wi
   
 In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps :
 
-- Face Detection and Data Gathering : Here we will focus on loading our face attandance detection dataset from disk.
+:black_nib: Face Detection and Data Gathering : Here we will focus on loading our face attandance detection dataset from disk.
 
-- Train the Recognizer : Training a model (using Keras/TensorFlow) on this dataset, and then serializing the face attandance detector to disk.
+:black_nib: Train the Recognizer : Training a model (using Keras/TensorFlow) on this dataset, and then serializing the face attandance detector to disk.
 
-- Face Recognition : Once the face attandance detector is trained, we can then move on to loading the attandance detector, performing face detection, and then classifying each face with their own specific id number.
+:black_nib: Face Recognition : Once the face attandance detector is trained, we can then move on to loading the attandance detector, performing face detection, and then classifying each face with their own specific id number.
 
 _____________________________________________________________
 
@@ -291,6 +291,7 @@ You can then launch the gender and age detector in real-time video streams using
 
 
 |                                        $ python AttendanceProject.py                                            |
+|-----------------------------------------------------------------------------------------------------------------|
 
 
 
@@ -312,19 +313,19 @@ _____________________________________________________________
 
 In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. 
 
-_____________________________________________________________
+
 
 :computer_mouse: OpenCV
 
 Open Source Computer Vision Library is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code. It has C++, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 
-_____________________________________________________________
+
 
 :computer_mouse: Computer Vision
 
 Computer Vision, often abbreviated as CV, is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand.
 
-_____________________________________________________________
+
 
 
 We then took this face attandance classifier and applied it to both images and real-time video streams by:
