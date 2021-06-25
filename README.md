@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://www.utem.edu.my/image/newlogo/LogoJawi.png" alt="UTeM logo">
+  <img width="800" src="https://www.utem.edu.my/image/newlogo/LogoJawi.png" alt="UTeM logo">
 </p>
 
 # Artificial Intelligence Project
