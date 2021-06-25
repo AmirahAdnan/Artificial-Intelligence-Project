@@ -16,9 +16,9 @@ Project Title: Face Recognition Attendance System
  
 **Team Members:** 
 
-
-![fs_education_mob_img_banner](https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg)
-
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg" alt="example">
+</p>
  _____________________________________________________________
 
 **1.1  Objectives:**
