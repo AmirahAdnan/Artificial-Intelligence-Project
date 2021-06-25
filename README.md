@@ -74,6 +74,7 @@ In this project, we will discuss about our Face Recognition Attandance System wh
 We will proceed to implement two additional Python scripts by using:
 
 :mag: Detect face attandance in images
+
 :mag: Detect face attandance in real-time video streams
 
 We will wrap up the post by looking at the results of applying our face attandance detector.
