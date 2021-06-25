@@ -67,7 +67,8 @@ In this article, our focus will be on one of the many applications of facial rec
 Figure 1 shows the AI output of detecting face for attandance.
 </p>
 
-_____________________________________________________________ <br /> <br />
+_____________________________________________________________ 
+<br /> <br />
 
 ## 3.0  DATASET
 
@@ -120,7 +121,8 @@ Our face attandance detection dataset as shown in Figure 3:
 Figure 3: A face attendance detection dataset consists of their own face id images.
 </p>
 
-_____________________________________________________________ <br /> <br />
+_____________________________________________________________ 
+<br /> <br />
 
 ## 4.0   PROJECT STRUCTURE
 
@@ -164,7 +166,8 @@ Two Python scripts:
 
 :label: AttendanceProject.py: Using your webcam, this script applies attendance face recognition to every frame in the stream.
 
-_____________________________________________________________ <br /> <br />
+_____________________________________________________________ 
+<br /> <br />
 
 ## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
 
@@ -298,7 +301,8 @@ However, sometimes it shown a wrong name to the face. To overcome this situation
 
 By these given results, we hope that our model will generalize every face recognize at the webcam outside our training and testing.
 
-_____________________________________________________________ <br /> <br />
+_____________________________________________________________ 
+<br /> <br />
 
 ## 6.0  RESULT AND CONCLUSION
 
@@ -325,7 +329,8 @@ Figure 11: Face Recognition Attendance in real-time video streams.
 In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
 
 
-_____________________________________________________________ <br /> <br />
+_____________________________________________________________ 
+<br /> <br />
 
 ## 7.0   PROJECT PRESENTATION 
 
