@@ -48,7 +48,7 @@ In this article, our focus will be on one of the many applications of facial rec
 
 
 <p align="center">
-  <img width="1000" src="https://user-images.githubusercontent.com/66559983/123439769-a4524380-d604-11eb-859f-689e8bd42dca.png" alt="logo">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123439769-a4524380-d604-11eb-859f-689e8bd42dca.png" alt="example">
 </p>
 
 <p align="center">
