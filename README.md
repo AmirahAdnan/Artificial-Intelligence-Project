@@ -175,7 +175,7 @@ Example of python command to execute & evaluate the student at the webcam based 
 **Output 1:** 
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 2">
 </p>
 
 <p align="center">
@@ -187,7 +187,7 @@ Figure 4: Program output after a student put their face at the webcam.
 **Output 2:**
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 3">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 3">
 </p>
 
 <p align="center">
@@ -199,7 +199,7 @@ Figure 5: Program output after a student put their face at the webcam.
 **Output 3:**
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 4">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 4">
 </p>
 
 <p align="center">
@@ -211,7 +211,7 @@ Figure 6: Program output after a student put their face at the webcam.
 **Output 4:**
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 2">
 </p>
 
 <p align="center">
@@ -223,7 +223,7 @@ Figure 7: Program output after a student put their face at the webcam.
 **Output 5:**
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 2">
 </p>
 
 <p align="center">
@@ -235,7 +235,7 @@ Figure 8: Program output after some students put their face at the same time at 
 **Output 6:**
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 2">
 </p>
 
 <p align="center">
