@@ -6,7 +6,7 @@
 
 **Project Title:** Face Recognition Attendance System
 **Team Members:** 
-![fs_education_mob_img_banner](https://user-images.githubusercontent.com/66559983/115048576-4a4e4700-9f0c-11eb-922c-1bf62aa36da9.png)
+![fs_education_mob_img](https://user-images.githubusercontent.com/66559983/115048576-4a4e4700-9f0c-11eb-922c-1bf62aa36da9.png)
 - Nurfarzana Amirah Binti Adnan			(B031910024)
 - Syaqirah Nur Fatihah Binti Sazalee		(B031910082)
 - Hamizah Binti Yusni				(B031910035)
