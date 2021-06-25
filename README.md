@@ -192,7 +192,7 @@ _____________________________________________________________
 **Output 1:** 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 1">
 </p>
 
 <p align="center">
@@ -206,7 +206,7 @@ _____________________________________________________________
 **Output 2:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 3">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 2">
 </p>
 
 <p align="center">
@@ -220,7 +220,7 @@ _____________________________________________________________
 **Output 3:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 4">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 3">
 </p>
 
 <p align="center">
@@ -233,7 +233,7 @@ _____________________________________________________________
 **Output 4:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 4">
 </p>
 
 <p align="center">
@@ -246,7 +246,7 @@ _____________________________________________________________
 **Output 5:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 5">
 </p>
 
 <p align="center">
@@ -259,12 +259,30 @@ _____________________________________________________________
 **Output 6:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 6">
 </p>
 
 <p align="center">
 Figure 9: Program output after a student put their face while wearing face mask at the webcam.
 </p>
+
+
+_____________________________________________________________
+
+
+**Output 7:**
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123459606-192f7880-d619-11eb-9493-1426e92d795f.png" alt="Training 7">
+</p>
+
+<p align="center">
+Figure 10: Program output after stop the system which shown the attendance list on .csv file.
+</p>
+
+
+This output can also be open using Microsoft Excel.
 
 
 _____________________________________________________________
@@ -287,7 +305,7 @@ _____________________________________________________________
 
 Detecting face attandance with OpenCV in real-time
 
-You can then launch the gender and age detector in real-time video streams using the following command:
+You can then launch the face recognition attendance detector in real-time video streams using the following command:
 
 
 |                                        $ python AttendanceProject.py                                            |
