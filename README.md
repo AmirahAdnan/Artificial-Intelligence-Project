@@ -1,5 +1,7 @@
 <p align="center">
-# Artificial-Intelligence-Project
+//# Artificial-Intelligence-Project
+ 
+\textbf{Artificial-Intelligence-Project}
 </p>
 
 # FACE RECOGNITION ATTENDANCE SYSTEM
@@ -24,7 +26,7 @@ Project Title: Face Recognition Attendance System
 
 
 
-- [ ] **1.1  Objectives:**
+- **1.1  Objectives:**
 
 :pushpin: Break out the project goal into more specific objectives
 
