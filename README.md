@@ -154,46 +154,27 @@ Two Python scripts:
 
 ## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
 
-We are now ready to train our face attandance detector using Keras, TensorFlow, and Deep Learning.
+Let’s try this face recognition attendance out on some of our own images now.
+We will run our script at PyCharm and webcam will prompt out:
+Example:
 
-From there, open up a terminal, and execute the following command:
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123445596-9e5f6100-d60a-11eb-9ddd-481eb2c828f7.png" alt="Figure 2">
+</p>
 
-- $ python train_mask_detector.py --dataset dataset
-- [INFO] loading images...
-- [INFO] compiling model...
-- [INFO] training head...
-- Train for 34 steps, validate on 276 samples
-- Epoch 1/20
-- 34/34 [==============================] - 30s 885ms/step - loss: 0.6431 - accuracy: 0.6676 - val_loss: 0.3696 - val_accuracy: 0.8242
-- Epoch 2/20
-- 34/34 [==============================] - 29s 853ms/step - loss: 0.3507 - accuracy: 0.8567 - val_loss: 0.1964 - val_accuracy: 0.9375
-- Epoch 3/20
-- 34/34 [==============================] - 27s 800ms/step - loss: 0.2792 - accuracy: 0.8820 - val_loss: 0.1383 - val_accuracy: 0.9531
-- Epoch 4/20
-- 34/34 [==============================] - 28s 814ms/step - loss: 0.2196 - accuracy: 0.9148 - val_loss: 0.1306 - val_accuracy: 0.9492
-- Epoch 5/20
-- 34/34 [==============================] - 27s 792ms/step - loss: 0.2006 - accuracy: 0.9213 - val_loss: 0.0863 - val_accuracy: 0.9688
-- ...
-- Epoch 16/20
-- 34/34 [==============================] - 27s 801ms/step - loss: 0.0767 - accuracy: 0.9766 - val_loss: 0.0291 - val_accuracy: 0.9922
-- Epoch 17/20
-- 34/34 [==============================] - 27s 795ms/step - loss: 0.1042 - accuracy: 0.9616 - val_loss: 0.0243 - val_accuracy: 1.0000
-- Epoch 18/20
-- 34/34 [==============================] - 27s 796ms/step - loss: 0.0804 - accuracy: 0.9672 - val_loss: 0.0244 - val_accuracy: 0.9961
-- Epoch 19/20
-- 34/34 [==============================] - 27s 793ms/step - loss: 0.0836 - accuracy: 0.9710 - val_loss: 0.0440 - val_accuracy: 0.9883
-- Epoch 20/20
-- 34/34 [==============================] - 28s 838ms/step - loss: 0.0717 - accuracy: 0.9710 - val_loss: 0.0270 - val_accuracy: 0.9922
-- [INFO] evaluating network...
 
-|      |    precision    | recall| f1-score | support |
-|------|-----------------|-------|----------|---------|
-|with_mask|0.99|1.00|0.99|138|
-|without_mask|1.00|0.99|0.99|138|
-|accuracy| | |0.99|276|
-|macro avg|0.99|0.99|0.99|276|
-|weighted avg|0.99|0.99|0.99|276|
 
+|                                                      CODE                                                          |
+|--------------------------------------------------------------------------------------------------------------------|
+|"C:\Users\Hamizah Yusni\PycharmProjects\FaceRecognitionAttendance\venv\Scripts\python.exe"|
+|"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/AttendanceProject.py"|
+
+|['Hamizah binti Yusni (B031910035).png', 'Nurfarzana Amirah binti Adnan (B031910024).jpg',|
+|'Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG', 'Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg']|
+|['Hamizah binti Yusni (B031910035)', 'Nurfarzana Amirah binti Adnan (B031910024)',|
+|'Nurul Hidayati Rahmah binti Mohd Hashim (B031910380)', 'Syaqirah Nur Fatihah binti Sazalee (B031910082)']|
+
+|Encoding Complete|
 
 ![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
 
