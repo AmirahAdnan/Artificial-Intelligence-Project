@@ -19,16 +19,6 @@ Project Title: Face Recognition Attendance System
 
 ![fs_education_mob_img_banner](https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg)
 
-
-
-:curly_haired_woman: Nurfarzana Amirah Binti Adnan			(B031910024)
-
-:curly_haired_woman: Syaqirah Nur Fatihah Binti Sazalee		(B031910082)
-
-:curly_haired_woman: Hamizah Binti Yusni				(B031910035)
-
-:curly_haired_woman: Nurul Hidayati Rahmah Binti Mohd Hashim	(B031910380)
-
  _____________________________________________________________
 
 - **1.1  Objectives:**
@@ -41,7 +31,8 @@ Project Title: Face Recognition Attendance System
 
 :pushpin: Easy to manage
 
-
+_____________________________________________________________
+ 
 ##  2.0 ABSTRACT 
 
 With the advancement of technologies each and every day, humanity is slowly going towards contactless everything.
