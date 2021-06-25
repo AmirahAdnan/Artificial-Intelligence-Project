@@ -31,6 +31,13 @@ Project Title: Face Recognition Attendance System
 
 
 
+
+
+
+
+
+
+
 - **1.1  Objectives:**
 
 :pushpin: Break out the project goal into more specific objectives
