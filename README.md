@@ -104,6 +104,9 @@ In order to train a custom face attandance detector, we need to break our projec
 
 - Face Recognition : Once the face attandance detector is trained, we can then move on to loading the attandance detector, performing face detection, and then classifying each face with their own specific id number.
 
+_____________________________________________________________
+
+
 We will review each of these phases and associated subsets in detail in the remainder of this tutorial. In the meantime, we will review the dataset used to train our face attandance detector.
 
 
