@@ -14,7 +14,7 @@ Project Title: Face Recognition Attendance System
  _____________________________________________________________
 </p>  
  
-**Team Members:** 
+**### Team Members:** 
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg" alt="example">
@@ -22,7 +22,21 @@ Project Title: Face Recognition Attendance System
  _____________________________________________________________
   </p>
 
-**1.1  Objectives:**
+**### 1.1  Objectives:**
+
+:pushpin: To automate user identification via face detection and recognition.
+
+:pushpin: To detect face attendance in image.
+
+:pushpin: To detect face attendance in real-time video stream.
+
+:pushpin: To record attendance of identified student.
+
+<p align="center">
+_____________________________________________________________
+</p>
+
+**### 1.2  Objectives:**
 
 :pushpin: To automate user identification via face detection and recognition.
 
