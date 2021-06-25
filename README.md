@@ -153,7 +153,7 @@ The following directory is our structure of our project:
 - └── AttendanceProject.py
 
 - 2 directories, 28 files
--
+
 Two Python scripts:
 
 :label: face-train.py: Accepts our input dataset.
