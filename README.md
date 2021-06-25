@@ -19,11 +19,13 @@
 
 
 - [ ] **Objectives:**
+
 :pushpin: Break out the project goal into more specific objectives
 
 :pushpin: Cost-effective
 
 :pushpin: Time saving
+
 :pushpin: Easy to manage
 
 
