@@ -2,8 +2,9 @@
   <img width="400" src="https://www.utem.edu.my/image/newlogo/LogoJawi.png" alt="UTeM logo">
 </p>
 
-# Artificial Intelligence Project
-
+<p align="center">
+   <# Artificial Intelligence Project>
+</p>
 
 # FACE RECOGNITION ATTENDANCE SYSTEM
 
