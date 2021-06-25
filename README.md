@@ -156,13 +156,7 @@ Two Python scripts:
 
 Let’s try this face recognition attendance out on some of our own images now.
 We will run our script at PyCharm and webcam will prompt out:
-Example:
-
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123445596-9e5f6100-d60a-11eb-9ddd-481eb2c828f7.png" alt="Figure 2">
-</p>
-
-
+Example of python command to execute & evaluate the student at the webcam based on the dataset :
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -176,7 +170,63 @@ Example:
 |    |
 |Encoding Complete|
 
-![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
+
+Output 1: 
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 2">
+</p>
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
+
+Output 2:
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 3">
+</p>
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
+
+Output 4:
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 4">
+</p>
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
+
+Output 5:
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 2">
+</p>
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
+
+Output 6:
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 2">
+</p>
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
+![Training2](https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png)
+![Training3](https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png)
+![Training4](https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png)
+![Training5](https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png)
+![Training6](https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png)
+![Training7](https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png)
+
 
 Figure 4: Figure 10: COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data
 
