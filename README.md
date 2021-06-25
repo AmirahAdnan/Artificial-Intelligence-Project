@@ -66,6 +66,7 @@ In this article, our focus will be on one of the many applications of facial rec
 Figure 1 shows the AI output of detecting face for attandance.
 </p>
 
+_____________________________________________________________
 
 
 ## 3.0  DATASET
@@ -80,7 +81,7 @@ We will proceed to implement two additional Python scripts by using:
 
 We will wrap up the post by looking at the results of applying our face attandance detector.
 
-
+_____________________________________________________________
 
 
 There is Three-phase of face attandance detector as shown in Figure 2:
@@ -116,7 +117,7 @@ Our face attandance detection dataset as shown in Figure 3:
 Figure 3: A face attendance detection dataset consists of their own face id images.
 </p>
 
-
+_____________________________________________________________
 
 ## 4.0   PROJECT STRUCTURE
 
@@ -160,7 +161,7 @@ Two Python scripts:
 
 :label: AttendanceProject.py: Using your webcam, this script applies attendance face recognition to every frame in the stream.
 
-
+_____________________________________________________________
 
 
 ## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
@@ -182,6 +183,8 @@ Example of python command to execute & evaluate the student at the webcam based 
 |Encoding Complete|
 
 
+_____________________________________________________________
+
 
 **Output 1:** 
 
@@ -193,6 +196,8 @@ Example of python command to execute & evaluate the student at the webcam based 
 Figure 4: Program output after a student put their face at the webcam.
 </p>
 
+
+_____________________________________________________________
 
 
 **Output 2:**
@@ -206,6 +211,8 @@ Figure 5: Program output after a student put their face at the webcam.
 </p>
 
 
+_____________________________________________________________
+
 
 **Output 3:**
 
@@ -217,6 +224,7 @@ Figure 5: Program output after a student put their face at the webcam.
 Figure 6: Program output after a student put their face at the webcam.
 </p>
 
+_____________________________________________________________
 
 
 **Output 4:**
@@ -229,6 +237,7 @@ Figure 6: Program output after a student put their face at the webcam.
 Figure 7: Program output after a student put their face at the webcam.
 </p>
 
+_____________________________________________________________
 
 
 **Output 5:**
@@ -241,6 +250,7 @@ Figure 7: Program output after a student put their face at the webcam.
 Figure 8: Program output after some students put their face at the same time at the webcam.
 </p>
 
+_____________________________________________________________
 
 
 **Output 6:**
@@ -254,6 +264,9 @@ Figure 9: Program output after a student put their face while wearing face mask 
 </p>
 
 
+_____________________________________________________________
+
+
 However, sometimes it shown a wrong name to the face. To overcome this situation:
 
 :bulb: Gather more faces of every student to help recognize the faces more accurate.
@@ -263,6 +276,9 @@ However, sometimes it shown a wrong name to the face. To overcome this situation
 :bulb: Implementing better training of the model
 
 By these given results, we hope that our model will generalize every face recognize at the webcam outside our training and testing.
+
+_____________________________________________________________
+
 
 ## 6.0  RESULT AND CONCLUSION
 
@@ -286,20 +302,26 @@ Figure 10: Face Recognition Attendance in real-time video streams.
 In Figure 10, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
 
 
+_____________________________________________________________
+
+
 ## 7.0   PROJECT PRESENTATION 
 
 In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. 
 
+_____________________________________________________________
 
 :computer_mouse: OpenCV
 
 Open Source Computer Vision Library is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code. It has C++, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
 
+_____________________________________________________________
 
 :computer_mouse: Computer Vision
 
 Computer Vision, often abbreviated as CV, is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand.
 
+_____________________________________________________________
 
 
 We then took this face attandance classifier and applied it to both images and real-time video streams by:
@@ -313,8 +335,6 @@ We then took this face attandance classifier and applied it to both images and r
 
 
 Our face attandance detector is accurate, and since we used the MobileNetV2 architecture, it is also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
-
-[![demo](https://www.youtube.com/watch?v=sz25xxF_AVE/0.jpg)](https://www.youtube.com/watch?v=sz25xxF_AVE "demo")
 
 
 
