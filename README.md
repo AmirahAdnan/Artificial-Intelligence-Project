@@ -2,9 +2,7 @@
   <img width="400" src="https://www.utem.edu.my/image/newlogo/LogoJawi.png" alt="UTeM logo">
 </p>
 
-<p align="center">
-   <# Artificial Intelligence Project>
-</p>
+# Artificial Intelligence Project
 
 # FACE RECOGNITION ATTENDANCE SYSTEM
 
@@ -17,6 +15,12 @@ Project Title: Face Recognition Attendance System
 </p>  
  
 **Team Members:** 
+
+<p align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg
+" alt="Members">
+</p>
+
 
 :curly_haired_woman: Nurfarzana Amirah Binti Adnan			(B031910024)
 
