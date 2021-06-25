@@ -18,8 +18,9 @@ Project Title: Face Recognition Attendance System
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg" alt="example">
-</p>
+
  _____________________________________________________________
+  </p>
 
 **1.1  Objectives:**
 
