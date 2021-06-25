@@ -34,9 +34,8 @@ Project Title: Face Recognition Attendance System
 
 :clipboard: Student can tick attendance for friend who is absent.
 
-<p align="center">
 _____________________________________________________________
-</p>
+
 
 **1.2  Objectives:**
 
@@ -47,7 +46,7 @@ _____________________________________________________________
 :pushpin: To detect face attendance in real-time video stream.
 
 :pushpin: To record attendance of identified student.
-<br /> 
+<br /> <br /> 
 _____________________________________________________________
 ##  2.0 BACKGROUND 
 
