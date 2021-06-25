@@ -64,10 +64,8 @@ In this article, our focus will be on one of the many applications of facial rec
 <p align="center">
 Figure 1 shows the AI output of detecting face for attandance.
 </p>
-
-_____________________________________________________________ 
-<br /> <br />
-
+<br /> <br /> 
+_____________________________________________________________
 ## 3.0  DATASET
 
 In this project, we will discuss about our Face Recognition Attandance System which will detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset using Keras and TensorFlow. We will use this Python script to train a face attandance detector and review the results.
@@ -118,10 +116,8 @@ Our face attandance detection dataset as shown in Figure 3:
 <p align="center">
 Figure 3: A face attendance detection dataset consists of their own face id images.
 </p>
-
-_____________________________________________________________ 
-<br /> <br />
-
+<br /> <br /> 
+_____________________________________________________________
 ## 4.0   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
@@ -163,10 +159,8 @@ Two Python scripts:
 :label: face-train.py: Accepts our input dataset.
 
 :label: AttendanceProject.py: Using your webcam, this script applies attendance face recognition to every frame in the stream.
-
-_____________________________________________________________ 
-<br /> <br />
-
+<br /> <br /> 
+_____________________________________________________________
 ## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
 
 Let’s try this face recognition attendance out on some of our own images now.
@@ -298,10 +292,8 @@ However, sometimes it shown a wrong name to the face. To overcome this situation
 :bulb: Implementing better training of the model
 
 By these given results, we hope that our model will generalize every face recognize at the webcam outside our training and testing.
-
-_____________________________________________________________ 
-<br /> <br />
-
+<br /> <br /> 
+_____________________________________________________________
 ## 6.0  RESULT AND CONCLUSION
 
 Detecting face attandance with OpenCV in real-time
@@ -325,11 +317,8 @@ Figure 11: Face Recognition Attendance in real-time video streams.
 <br /> <br />
 
 In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
-
-
-_____________________________________________________________ 
-<br /> <br />
-
+<br /> <br /> 
+_____________________________________________________________
 ## 7.0   PROJECT PRESENTATION 
 
 In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. <br /> <br />
