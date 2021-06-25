@@ -46,6 +46,7 @@ _____________________________________________________________
 :pushpin: To detect face attendance in real-time video stream.
 
 :pushpin: To record attendance of identified student.
+
 <br /> <br /> 
 _____________________________________________________________
 ##  2.0 BACKGROUND 
@@ -64,6 +65,7 @@ In this article, our focus will be on one of the many applications of facial rec
 <p align="center">
 Figure 1 shows the AI output of detecting face for attandance.
 </p>
+
 <br /> <br /> 
 _____________________________________________________________
 ## 3.0  DATASET
