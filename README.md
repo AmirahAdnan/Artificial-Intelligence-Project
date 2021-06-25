@@ -2,7 +2,7 @@
 
 # FACE RECOGNITION ATTENDANCE SYSTEM
 
-## A. PROJECT SUMMARY
+## 1.0 PROJECT SUMMARY
 <p align="center">
 Project Title: Face Recognition Attendance System
 
@@ -21,7 +21,7 @@ Project Title: Face Recognition Attendance System
 
 
 
-- [ ] **Objectives:**
+- [ ] **1.1  Objectives:**
 
 :pushpin: Break out the project goal into more specific objectives
 
@@ -32,7 +32,7 @@ Project Title: Face Recognition Attendance System
 :pushpin: Easy to manage
 
 
-##  B. ABSTRACT 
+##  2.0 ABSTRACT 
 
 With the advancement of technologies each and every day, humanity is slowly going towards contactless everything.
 
@@ -55,7 +55,7 @@ But today, our prime focus will be on one of the many applications of facial rec
 Figure 1 shows the AI output of detecting face for attandance.
 </p>
 
-## C.  DATASET
+## 3.0  DATASET
 
 In this project, we’ll discuss our Face Recognition Attandance System, detailing how our computer vision/deep learning pipeline will be implemented.
 
@@ -115,7 +115,7 @@ To help keep her spirits up, Prajna decided to distract herself by applying comp
 - Worst case scenario — it gave her a much needed mental escape
 
 
-## D.   PROJECT STRUCTURE
+## 4.0   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
 - $ tree --dirsfirst --filelimit 10
@@ -151,7 +151,7 @@ In the next two sections, we will train our face mask detector.
 
 
 
-## E   TRAINING THE FACE ATTANDANCE DETECTION
+## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
 
 We are now ready to train our face attandance detector using Keras, TensorFlow, and Deep Learning.
 
@@ -205,7 +205,7 @@ Looking at Figure 4, we can see there are little signs of overfitting, with the 
 Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
 
 
-## F.  RESULT AND CONCLUSION
+## 6.0  RESULT AND CONCLUSION
 
 Detecting face attandance with OpenCV in real-time
 
@@ -225,7 +225,7 @@ In Figure 5, you can see that our face attandance detector is capable of running
 
 
 
-## G.   PROJECT PRESENTATION 
+## 7.0   PROJECT PRESENTATION 
 
 In this project, you learned how to create a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning.
 
