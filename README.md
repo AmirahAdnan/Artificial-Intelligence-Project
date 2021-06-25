@@ -289,10 +289,10 @@ Detecting face attandance with OpenCV in real-time
 
 You can then launch the gender and age detector in real-time video streams using the following command:
 
-
+<p align="center">
 |                                        $ python AttendanceProject.py                                            |
 |-----------------------------------------------------------------------------------------------------------------|
-
+</p>
 
 
 <p align="center">
