@@ -82,7 +82,7 @@ We will wrap up the post by looking at the results of applying our face attandan
 There is Three-phase of face attandance detector as shown in Figure 2:
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123443079-23954680-d608-11eb-8d2c-f7f7a96c0250.png" alt="Figure 2">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123443079-23954680-d608-11eb-8d2c-f7f7a96c0250.png" alt="Figure 2">
 </p>
 
 <p align="center">
