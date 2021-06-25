@@ -6,12 +6,12 @@
 
 **Project Title:** Face Recognition Attendance System
 **Team Members:** 
-:grinning:
 
-- Nurfarzana Amirah Binti Adnan			(B031910024)
-- Syaqirah Nur Fatihah Binti Sazalee		(B031910082)
-- Hamizah Binti Yusni				(B031910035)
-- Nurul Hidayati Rahmah Binti Mohd Hashim	(B031910380)
+
+:curly_haired_woman: Nurfarzana Amirah Binti Adnan			(B031910024)
+:curly_haired_woman: Syaqirah Nur Fatihah Binti Sazalee		(B031910082)
+:curly_haired_woman: Hamizah Binti Yusni				(B031910035)
+:curly_haired_woman: Nurul Hidayati Rahmah Binti Mohd Hashim	(B031910380)
 
 
 
