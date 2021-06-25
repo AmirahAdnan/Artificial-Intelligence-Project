@@ -115,24 +115,6 @@ Figure 3: A face attendance detection dataset consists of their own face id imag
 ## 4.0   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
-- $ tree --dirsfirst --filelimit 10
-- .
-- ├── dataset
-- │   └── face id 0 until 39.
-- ├── examples
-- │   ├── example_01.png
-- │   ├── example_02.png
-- │   └── example_03.png
-- ├── face_detector
-- │   ├── deploy.prototxt
-- │   └── res10_300x300_ssd_iter_140000.caffemodel
-- ├── detect_mask_image.py
-- ├── detect_mask_video.py
-- ├── mask_detector.model
-- ├── plot.png
-- └── train_mask_detector.py
-- 5 directories, 10 files
-
 
 - ├── Dataset
 - │ ├──   Dayah.jpg
@@ -164,19 +146,10 @@ The following directory is our structure of our project:
 - ├──  Attendance.csv
 - └── AttendanceProject.py
 
-
-The dataset/ directory contains the data described in the “Our COVID-19 face mask detection dataset” section.
-
-Three image examples/ are provided so that you can test the static image face mask detector.
-
-We’ll be reviewing three Python scripts in this tutorial:
-
-- train_mask_detector.py: Accepts our input dataset and fine-tunes MobileNetV2 upon it to create our mask_detector.model. A training history plot.png containing accuracy/loss curves is also produced
-- detect_mask_image.py: Performs face mask detection in static images
-- detect_mask_video.py: Using your webcam, this script applies face mask detection to every frame in the stream
-
-In the next two sections, we will train our face mask detector.
-
+- 2 directories, 28 files
+Two Python scripts:
+	:label: face-train.py: Accepts our input dataset.
+	:label: AttendanceProject.py: Using your webcam, this script applies attendance face recognition to every frame in the stream.
 
 
 ## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
