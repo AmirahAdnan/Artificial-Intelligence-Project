@@ -191,7 +191,7 @@ Figure 3: A face attendance detection dataset consists of their own face id imag
 </p>
 
 
-Output 4:
+Output 3:
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 4">
@@ -201,7 +201,7 @@ Figure 3: A face attendance detection dataset consists of their own face id imag
 </p>
 
 
-Output 5:
+Output 4:
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 2">
@@ -211,10 +211,21 @@ Figure 3: A face attendance detection dataset consists of their own face id imag
 </p>
 
 
-Output 6:
+Output 5:
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 2">
+</p>
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
+
+
+Output 6:
+
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 2">
 </p>
 <p align="center">
 Figure 3: A face attendance detection dataset consists of their own face id images.
