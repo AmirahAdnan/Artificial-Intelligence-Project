@@ -24,15 +24,15 @@ Project Title: Face Recognition Attendance System
 
 **1.1  Problem Statement :**
 
-:pushpin: Traditional student attendance marking
+:clipboard: Traditional student attendance marking
 
-:pushpin: technique is often facing a lot of trouble and take time.
+:clipboard: technique is often facing a lot of trouble and take time.
 
-:pushpin: Traditional method are usually disturbing learning and teaching process.
+:clipboard: Traditional method are usually disturbing learning and teaching process.
 
-:pushpin: Class with many students might be difficult to pass the attendance sheet.
+:clipboard: Class with many students might be difficult to pass the attendance sheet.
 
-:pushpin: Student can tick attendance for friend who is absent.
+:clipboard: Student can tick attendance for friend who is absent.
 
 <p align="center">
 _____________________________________________________________
@@ -73,17 +73,19 @@ In this project, we will discuss about our Face Recognition Attandance System wh
 
 We will proceed to implement two additional Python scripts by using:
 
--- Detect face attandance in images
--- Detect face attandance in real-time video streams
+:mag: Detect face attandance in images
+:mag: Detect face attandance in real-time video streams
 
 We will wrap up the post by looking at the results of applying our face attandance detector.
 
 There is Three-phase of face attandance detector as shown in Figure 2:
 
-(![0_oJIRaoERCUHoyylG_](https://user-images.githubusercontent.com/66559983/115047080-c21b7200-9f0a-11eb-88f2-0c6228cc25c7.png)
+![DataSet1](https://user-images.githubusercontent.com/66559983/123442341-5f7bdc00-d607-11eb-9f6e-7948857d0b22.png)
 
-Figure 2: Phases and individual steps for building a face attandance detector with computer vision and deep learning 
-
+<p align="center">
+Figure 2: Phases and individual steps for building a face attendance detector with computer vision and deep learning.
+</p>
+  
 In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
 
 - Face Detection and Data Gathering : Here we’ll focus on loading our face attandance detection dataset from disk.
