@@ -35,46 +35,32 @@ _____________________________________________________________
  
 ##  2.0 BACKGROUND 
 
-Face recognition  is crucial in daily life to identify family members, friends or someone we are familiar. In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed.
+ In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed.
 
 
 
 
-With the advancement of technologies each and every day, humanity is slowly going towards contactless everything.
+With the advancement of technologies each and every day, humanity is slowly going towards contactless everything. It is quite evident that the future ahead of us will become so much advance that maybe 90%+ things that we are doing right now will be either automated or become contactless. One such advancement will be the facial recognition technology or the FR tech, which is the prime focus of this article. 
 
-It is quite evident that the future ahead of us will become so much advance that maybe 90%+ things that we are doing right now will be either automated or become contactless.
+Facial recognition technology is a system or software which is capable enough to identify an identity of family members, friends or anyone by analyzing an image or video footage. Some of the technologies or software are so advanced that even blurred pictures are sometimes rendered enough and analyzed to know the identity of the person.
 
-One such advancement will be the facial recognition technology or the FR tech, which is the prime focus of this article. 
+In this article, our focus will be on one of the many applications of facial recognition technology, which is **Face Recognition Attendance System**.
 
-
-Facial recognition technology is a system or software which is capable enough to verify the identity of a person from analyzing an image or video footage.
-
-Some of the technologies or software are so advanced that even blurred pictures are sometimes rendered enough and analyzed to know the identity of the person.
-
-So much are the advantages of this system that it would take a long article to note down each and every one of them.
-
-But today, our prime focus will be on one of the many applications of facial recognition technology, and that is using face recognition based attendance system.
-
-![fs_education_mob_img_banner](https://user-images.githubusercontent.com/66559983/115048576-4a4e4700-9f0c-11eb-922c-1bf62aa36da9.png)
+![Abstract](https://user-images.githubusercontent.com/66559983/123439769-a4524380-d604-11eb-859f-689e8bd42dca.png)
 
 <p align="center">
 Figure 1 shows the AI output of detecting face for attandance.
 </p>
 
+
 ## 3.0  DATASET
 
-In this project, we’ll discuss our Face Recognition Attandance System, detailing how our computer vision/deep learning pipeline will be implemented.
+In this project, we will discuss our Face Recognition Attandance System, detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset using Keras and TensorFlow. We will use this Python script to train a face attandance detector and review the results.
 
-From there, we’ll review the dataset we’ll be using to train our custom face attandance detector.
+We will proceed to implement two additional Python scripts by using:
 
-I’ll then show you how to implement a Python script to train a face attandance detector on our dataset using Keras and TensorFlow.
-
-We’ll use this Python script to train a face attandance detector and review the results.
-
-Given the trained face attandance detector, we’ll proceed to implement two more additional Python scripts used to:
-
-- Detect face attandance in images
-- Detect face attandance in real-time video streams
+-- Detect face attandance in images
+-- Detect face attandance in real-time video streams
 
 We’ll wrap up the post by looking at the results of applying our face attandance detector.
 
