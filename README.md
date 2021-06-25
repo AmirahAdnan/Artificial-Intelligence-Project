@@ -8,7 +8,7 @@
 
 
 ## 1.0 PROJECT SUMMARY
-## <p align="center">
+<p align="center">
 Project Title: Face Recognition Attendance System
 
  _____________________________________________________________
@@ -22,15 +22,17 @@ Project Title: Face Recognition Attendance System
  _____________________________________________________________
   </p>
 
-**### 1.1  Objectives:**
+**### 1.1  Problem Statement :**
 
-:pushpin: To automate user identification via face detection and recognition.
+:pushpin: Traditional student attendance marking
 
-:pushpin: To detect face attendance in image.
+:pushpin: technique is often facing a lot of trouble and take time.
 
-:pushpin: To detect face attendance in real-time video stream.
+:pushpin: Traditional method are usually disturbing learning and teaching process.
 
-:pushpin: To record attendance of identified student.
+:pushpin: Class with many students might be difficult to pass the attendance sheet.
+
+:pushpin: Student can tick attendance for friend who is absent.
 
 <p align="center">
 _____________________________________________________________
