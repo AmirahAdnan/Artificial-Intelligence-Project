@@ -1,6 +1,8 @@
+<p align="center">
 # Artificial-Intelligence-Project
 
 # FACE RECOGNITION ATTENDANCE SYSTEM
+</p>
 
 ## 1.0 PROJECT SUMMARY
 <p align="center">
