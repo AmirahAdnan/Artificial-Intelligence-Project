@@ -51,8 +51,9 @@ But today, our prime focus will be on one of the many applications of facial rec
 
 ![fs_education_mob_img_banner](https://user-images.githubusercontent.com/66559983/115048576-4a4e4700-9f0c-11eb-922c-1bf62aa36da9.png)
 
+<p align="center">
 Figure 1 shows the AI output of detecting face for attandance.
-
+</p>
 
 ## C.  DATASET
 
