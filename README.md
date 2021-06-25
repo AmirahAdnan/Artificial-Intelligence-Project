@@ -35,8 +35,7 @@ _____________________________________________________________
  
 ##  2.0 BACKGROUND 
 
-Face recognition  is crucial in daily life to identify family members, friends or someone we are familiar.
-In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed.
+Face recognition  is crucial in daily life to identify family members, friends or someone we are familiar. In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed.
 
 
 
