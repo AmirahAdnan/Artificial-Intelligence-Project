@@ -79,6 +79,7 @@ We will proceed to implement two additional Python scripts by using:
 
 We will wrap up the post by looking at the results of applying our face attandance detector.
 
+
 There is Three-phase of face attandance detector as shown in Figure 2:
 
 <p align="center">
@@ -89,23 +90,32 @@ There is Three-phase of face attandance detector as shown in Figure 2:
 Figure 2: Phases and individual steps for building a face attendance detector with computer vision and deep learning.
 </p>
   
-In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
+  
+In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps :
 
-- Face Detection and Data Gathering : Here we’ll focus on loading our face attandance detection dataset from disk.
+- Face Detection and Data Gathering : Here we will focus on loading our face attandance detection dataset from disk.
 
 - Train the Recognizer : Training a model (using Keras/TensorFlow) on this dataset, and then serializing the face attandance detector to disk.
 
 - Face Recognition : Once the face attandance detector is trained, we can then move on to loading the attandance detector, performing face detection, and then classifying each face with their own specific id number.
 
-We’ll review each of these phases and associated subsets in detail in the remainder of this tutorial, but in the meantime, let’s take a look at the dataset we’ll be using to train our face attandance detector.
+We will review each of these phases and associated subsets in detail in the remainder of this tutorial. In the meantime, we will review the dataset used to train our face attandance detector.
 
 
 Our face attandance detection dataset as shown in Figure 3:
 
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123445596-9e5f6100-d60a-11eb-9ddd-481eb2c828f7.png" alt="Figure 2">
+</p>
+
+<p align="center">
+Figure 3: A face attendance detection dataset consists of their own face id images.
+</p>
+
 ![1_qK_TqFBjxq45_vfpgdJrwQ](https://user-images.githubusercontent.com/66559983/115047537-30f8cb00-9f0b-11eb-9334-3a3098c34cce.png)
 
 
-Figure 3: A face attandance detection dataset consists of their own face id images. 
+
 
 The dataset we’ll be using here today was created by PyImageSearch reader Prajna Bhandary.
 
