@@ -331,7 +331,7 @@ _____________________________________________________________
 
 ## 7.0   PROJECT PRESENTATION 
 
-In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. 
+In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert.\ 
 
 
 :computer_mouse: OpenCV
