@@ -8,7 +8,7 @@
 
 
 ## 1.0 PROJECT SUMMARY
-<p align="center">
+## <p align="center">
 Project Title: Face Recognition Attendance System
 
  _____________________________________________________________
