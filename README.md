@@ -134,35 +134,35 @@ The following directory is our structure of our project:
 - 5 directories, 10 files
 
 
-├── Dataset
-│ ├──   Dayah.jpg
-│ ├──  Dayah1.jpg
-│ ├──  Dayah2.jpg
-│ ├──  Dayah3.jpg
-│ ├──  Dayah4.jpg
-│ ├──  Mirah.jpg
-│ ├──  Mirah1.jpg
-│ ├──  Mirah2.jpg
-│ ├──  Mirah3.jpg
-│ ├──  Mirah4.jpg
-│ ├──  Miza.jpg
-│ ├──  Miza1.jpg
-│ ├──  Miza2.jpg
-│ ├──  Miza3.jpg
-│ ├──  Miza4.jpg
-│ ├──  Syaqirah.jpeg
-│ ├──  Syaqirah1.jpeg
-│ ├──  Syaqirah2.jpeg
-│ ├──  Syaqirah3.jpeg
-│ └── Syaqirah4.jpeg
-├──  ImagesAttendance
-│ ├──  Hamizah binti Yusni (B0319190035).png
-│ ├──  Nurfarzana Amirah binti Adnan (B031910024).jpg
-│ ├──  Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG
-│ └── Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg
-├──  face-train.py
-├──  Attendance.csv
-└── AttendanceProject.py
+- ├── Dataset
+- │ ├──   Dayah.jpg
+- │ ├──  Dayah1.jpg
+- │ ├──  Dayah2.jpg
+- │ ├──  Dayah3.jpg
+- │ ├──  Dayah4.jpg
+- │ ├──  Mirah.jpg
+- │ ├──  Mirah1.jpg
+- │ ├──  Mirah2.jpg
+- │ ├──  Mirah3.jpg
+- │ ├──  Mirah4.jpg
+- │ ├──  Miza.jpg
+- │ ├──  Miza1.jpg
+- │ ├──  Miza2.jpg
+- │ ├──  Miza3.jpg
+- │ ├──  Miza4.jpg
+- │ ├──  Syaqirah.jpeg
+- │ ├──  Syaqirah1.jpeg
+- │ ├──  Syaqirah2.jpeg
+- │ ├──  Syaqirah3.jpeg
+- │ └── Syaqirah4.jpeg
+- ├──  ImagesAttendance
+- │ ├──  Hamizah binti Yusni (B0319190035).png
+- │ ├──  Nurfarzana Amirah binti Adnan (B031910024).jpg
+- │ ├──  Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG
+- │ └── Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg
+- ├──  face-train.py
+- ├──  Attendance.csv
+- └── AttendanceProject.py
 
 
 The dataset/ directory contains the data described in the “Our COVID-19 face mask detection dataset” section.
