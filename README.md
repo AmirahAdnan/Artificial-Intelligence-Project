@@ -54,7 +54,7 @@ _____________________________________________________________
 
 With the advancement of technologies each and every day, humanity is slowly going towards contactless everything. It is quite evident that the future ahead of us will become so much advance that maybe 90%+ things that we are doing right now will be either automated or become contactless. One such advancement will be the facial recognition technology or the FR tech, which is the prime focus of this article. 
 
-Facial recognition technology is a system or software which is capable enough to identify an identity of family members, friends or anyone by analyzing an image or video footage. Some of the technologies or software are so advanced that even blurred pictures are sometimes rendered enough and analyzed to know the identity of the person.  In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed.
+Facial recognition technology is a system or software which is capable enough to identify an identity of family members, friends or anyone by analyzing an image or video footage. Some of the technologies or software are so advanced that even blurred pictures are sometimes rendered enough and analyzed to know the identity of the person.  In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed. <br /> <br />
 
 In this article, our focus will be on one of the many applications of facial recognition technology, which is **Face Recognition Attendance System**.
 
@@ -81,7 +81,7 @@ We will proceed to implement two additional Python scripts by using:
 
 We will wrap up the post by looking at the results of applying our face attandance detector.
 
-_____________________________________________________________
+<br /> <br />
 
 
 There is Three-phase of face attandance detector as shown in Figure 2:
@@ -94,7 +94,7 @@ There is Three-phase of face attandance detector as shown in Figure 2:
 Figure 2: Phases and individual steps for building a face attendance detector with computer vision and deep learning.
 </p>
   
-  
+<br /> <br /> 
   
 In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps :
 
@@ -107,7 +107,7 @@ In order to train a custom face attandance detector, we need to break our projec
 _____________________________________________________________
 
 
-We will review each of these phases and associated subsets in detail in the remainder of this tutorial. In the meantime, we will review the dataset used to train our face attandance detector.
+We will review each of these phases and associated subsets in detail in the remainder of this tutorial. In the meantime, we will review the dataset used to train our face attandance detector. <br /> <br />
 
 
 Our face attandance detection dataset as shown in Figure 3:
@@ -281,13 +281,12 @@ _____________________________________________________________
 Figure 10: Program output after stop the system which shown the attendance list on .csv file.
 </p>
 
-
-
+<br /> <br />
 
 This output can also be open using Microsoft Excel.
 
 
-_____________________________________________________________
+<br /> <br />
 
 
 However, sometimes it shown a wrong name to the face. To overcome this situation:
@@ -323,6 +322,8 @@ You can then launch the face recognition attendance detector in real-time video 
 Figure 11: Face Recognition Attendance in real-time video streams.
 </p>
 
+<br /> <br />
+
 In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
 
 
@@ -331,17 +332,17 @@ _____________________________________________________________
 
 ## 7.0   PROJECT PRESENTATION 
 
-In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert.
+In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. <br /> <br />
 
 
-:computer_mouse: OpenCV <br /> <br />
+:computer_mouse: OpenCV 
 
-Open Source Computer Vision Library is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code. It has C++, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+Open Source Computer Vision Library is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code. It has C++, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS. <br /> <br />
 
 
 :computer_mouse: Computer Vision
 
-Computer Vision, often abbreviated as CV, is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand.
+Computer Vision, often abbreviated as CV, is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand. <br /> <br />
 
 
 We then took this face attandance classifier and applied it to both images and real-time video streams by:
@@ -350,7 +351,7 @@ We then took this face attandance classifier and applied it to both images and r
 
 :trackball: Extracting each individual face
 
-:trackball: Applying our face attandance classifier
+:trackball: Applying our face attandance classifier <br /> <br />
 
 
 
