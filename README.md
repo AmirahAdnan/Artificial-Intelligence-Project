@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" src="http://ftmk.utem.edu.my/web/wp-content/uploads/2020/07/Logo-KPTFTMK2-1024x206.png" alt="logo">
+  <img width="1000" src="http://ftmk.utem.edu.my/web/wp-content/uploads/2020/07/Logo-KPTFTMK2-1024x206.png" alt="logo">
 </p>
 
 # Artificial Intelligence Project
