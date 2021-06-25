@@ -112,29 +112,6 @@ Our face attandance detection dataset as shown in Figure 3:
 Figure 3: A face attendance detection dataset consists of their own face id images.
 </p>
 
-![1_qK_TqFBjxq45_vfpgdJrwQ](https://user-images.githubusercontent.com/66559983/115047537-30f8cb00-9f0b-11eb-9334-3a3098c34cce.png)
-
-
-
-
-The dataset we’ll be using here today was created by PyImageSearch reader Prajna Bhandary.
-
-This dataset consists of 40 images belonging to :
-
-- face id : 0 until face id : 39
-
-
-Our goal is to train a custom deep learning model to record the attandance by recognise their face.
-
-How was our face attandance dataset created?
-Prajna, like me, has been feeling down and depressed about the state of the world — thousands of people are dying each day, and for many of us, there is very little (if anything) we can do.
-
-To help keep her spirits up, Prajna decided to distract herself by applying computer vision and deep learning to solve a real-world problem:
-
-- Best case scenario — she could use her project to help others
-- Worst case scenario — it gave her a much needed mental escape
-
-
 ## 4.0   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
@@ -155,6 +132,37 @@ The following directory is our structure of our project:
 - ├── plot.png
 - └── train_mask_detector.py
 - 5 directories, 10 files
+
+
+├── Dataset
+│ ├──   Dayah.jpg
+│ ├──  Dayah1.jpg
+│ ├──  Dayah2.jpg
+│ ├──  Dayah3.jpg
+│ ├──  Dayah4.jpg
+│ ├──  Mirah.jpg
+│ ├──  Mirah1.jpg
+│ ├──  Mirah2.jpg
+│ ├──  Mirah3.jpg
+│ ├──  Mirah4.jpg
+│ ├──  Miza.jpg
+│ ├──  Miza1.jpg
+│ ├──  Miza2.jpg
+│ ├──  Miza3.jpg
+│ ├──  Miza4.jpg
+│ ├──  Syaqirah.jpeg
+│ ├──  Syaqirah1.jpeg
+│ ├──  Syaqirah2.jpeg
+│ ├──  Syaqirah3.jpeg
+│ └── Syaqirah4.jpeg
+├──  ImagesAttendance
+│ ├──  Hamizah binti Yusni (B0319190035).png
+│ ├──  Nurfarzana Amirah binti Adnan (B031910024).jpg
+│ ├──  Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG
+│ └── Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg
+├──  face-train.py
+├──  Attendance.csv
+└── AttendanceProject.py
 
 
 The dataset/ directory contains the data described in the “Our COVID-19 face mask detection dataset” section.
