@@ -1,7 +1,5 @@
 <p align="center">
- 
-## Artificial-Intelligence-Project
-
+//## Artificial-Intelligence-Project
 </p>
 
 # FACE RECOGNITION ATTENDANCE SYSTEM
