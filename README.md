@@ -282,6 +282,8 @@ Figure 10: Program output after stop the system which shown the attendance list 
 </p>
 
 
+
+
 This output can also be open using Microsoft Excel.
 
 
