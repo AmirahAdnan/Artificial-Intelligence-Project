@@ -268,37 +268,51 @@ By these given results, we hope that our model will generalize every face recogn
 
 Detecting face attandance with OpenCV in real-time
 
-You can then launch the attandance detector in real-time video streams using the following command:
-- $ python detect_mask_video.py
-- [INFO] loading face detector model...
-- INFO] loading face mask detector model...
-- [INFO] starting video stream...
+You can then launch the gender and age detector in real-time video streams using the following command:
+
+
+|                                        $ python AttendanceProject.py                                            |
 
 
 
-![0_WtQqicLOVn1TukA2_](https://user-images.githubusercontent.com/66559983/115048873-a6b16680-9f0c-11eb-9cd1-7772e80c9885.png)
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
+</p>
 
-Figure 5: Attandance detector in real-time video streams
+<p align="center">
+Figure 10: Face Recognition Attendance in real-time video streams.
+</p>
 
-In Figure 5, you can see that our face attandance detector is capable of running in real-time (and is correct in its predictions as well.
-
+In Figure 10, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
 
 
 ## 7.0   PROJECT PRESENTATION 
 
-In this project, you learned how to create a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning.
+In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. 
 
-To create our face attandance detector, we trained 40 peoples who already registered in the attandance system.
 
-We fine-tuned MobileNetV2 on our attandance dataset and obtained a classifier that is ~99% accurate.
+:computer_mouse: OpenCV
+
+Open Source Computer Vision Library is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code. It has C++, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+
+
+:computer_mouse: Computer Vision
+
+Computer Vision, often abbreviated as CV, is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand.
+
+
 
 We then took this face attandance classifier and applied it to both images and real-time video streams by:
 
-- Detecting faces in images/video
-- Extracting each individual face
-- Applying our face attandance classifier
+:trackball: Detecting faces in images/video
 
-Our face attandance detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
+:trackball: Extracting each individual face
+
+:trackball: Applying our face attandance classifier
+
+
+
+Our face attandance detector is accurate, and since we used the MobileNetV2 architecture, it is also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
 [![demo](https://www.youtube.com/watch?v=sz25xxF_AVE/0.jpg)](https://www.youtube.com/watch?v=sz25xxF_AVE "demo")
 
