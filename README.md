@@ -285,9 +285,7 @@ Figure 10: Program output after stop the system which shown the attendance list 
 
 This output can also be open using Microsoft Excel.
 
-
 <br /> <br />
-
 
 However, sometimes it shown a wrong name to the face. To overcome this situation:
 
