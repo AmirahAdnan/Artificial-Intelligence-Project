@@ -171,82 +171,87 @@ Example of python command to execute & evaluate the student at the webcam based 
 |Encoding Complete|
 
 
-Output 1: 
+
+**Output 1:** 
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 2">
 </p>
+
 <p align="center">
-Figure 3: A face attendance detection dataset consists of their own face id images.
+Figure 4: Program output after a student put their face at the webcam.
 </p>
 
 
-Output 2:
+
+**Output 2:**
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 3">
 </p>
+
 <p align="center">
-Figure 3: A face attendance detection dataset consists of their own face id images.
+Figure 5: Program output after a student put their face at the webcam.
 </p>
 
 
-Output 3:
+
+**Output 3:**
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 4">
 </p>
+
 <p align="center">
-Figure 3: A face attendance detection dataset consists of their own face id images.
+Figure 6: Program output after a student put their face at the webcam.
 </p>
 
 
-Output 4:
+
+**Output 4:**
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 2">
 </p>
+
 <p align="center">
-Figure 3: A face attendance detection dataset consists of their own face id images.
+Figure 7: Program output after a student put their face at the webcam.
 </p>
 
 
-Output 5:
+
+**Output 5:**
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 2">
 </p>
+
 <p align="center">
-Figure 3: A face attendance detection dataset consists of their own face id images.
+Figure 8: Program output after some students put their face at the same time at the webcam.
 </p>
 
 
 
-Output 6:
+**Output 6:**
 
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 2">
 </p>
+
 <p align="center">
-Figure 3: A face attendance detection dataset consists of their own face id images.
+Figure 9: Program output after a student put their face while wearing face mask at the webcam.
 </p>
 
-![Training2](https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png)
-![Training3](https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png)
-![Training4](https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png)
-![Training5](https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png)
-![Training6](https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png)
-![Training7](https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png)
 
+However, sometimes it shown a wrong name to the face. To overcome this situation:
 
-Figure 4: Figure 10: COVID-19 face mask detector training accuracy/loss curves demonstrate high accuracy and little signs of overfitting on the data
+:bulb: Gather more faces of every student to help recognize the faces more accurate.
 
-As you can see, we are obtaining ~99% accuracy on our test set.
+:bulb: Get faces of every student with different side of face to each of the photos.
 
-Looking at Figure 4, we can see there are little signs of overfitting, with the validation loss lower than the training loss. 
+:bulb: Implementing better training of the model
 
-Given these results, we are hopeful that our model will generalize well to images outside our training and testing set.
-
+By these given results, we hope that our model will generalize every face recognize at the webcam outside our training and testing.
 
 ## 6.0  RESULT AND CONCLUSION
 
