@@ -4,7 +4,8 @@
 
 ## A. PROJECT SUMMARY
 <p align="center">
- __Project Title: Face Recognition Attendance System__
+Project Title: Face Recognition Attendance System
+_____________________________________________________________
 </p>  
  
 **Team Members:** 
