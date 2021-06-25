@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://www.utem.edu.my/image/newlogo/LogoJawi.png" alt="UTeM logo">
+  <img width="400" src="http://ftmk.utem.edu.my/web/wp-content/uploads/2020/07/Logo-KPTFTMK2-1024x206.png" alt="logo">
 </p>
 
 # Artificial Intelligence Project
@@ -29,14 +29,7 @@ Project Title: Face Recognition Attendance System
 
 :curly_haired_woman: Nurul Hidayati Rahmah Binti Mohd Hashim	(B031910380)
 
-
-
-
-
-
-
-
-
+ _____________________________________________________________
 
 - **1.1  Objectives:**
 
