@@ -14,7 +14,7 @@ Project Title: Face Recognition Attendance System
  _____________________________________________________________
 </p>  
  
-### **Team Members:** 
+**Team Members:** 
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/81746626/123410939-78be6180-d5e2-11eb-8bd6-853172aac359.jpeg" alt="example">
@@ -22,7 +22,7 @@ Project Title: Face Recognition Attendance System
  _____________________________________________________________
   </p>
 
-**### 1.1  Problem Statement :**
+**1.1  Problem Statement :**
 
 :pushpin: Traditional student attendance marking
 
@@ -38,7 +38,7 @@ Project Title: Face Recognition Attendance System
 _____________________________________________________________
 </p>
 
-**### 1.2  Objectives:**
+**1.2  Objectives:**
 
 :pushpin: To automate user identification via face detection and recognition.
 
@@ -67,18 +67,16 @@ Figure 1 shows the AI output of detecting face for attandance.
 </p>
 
 
-
 ## 3.0  DATASET
 
-In this project, we will discuss our Face Recognition Attandance System, detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset using Keras and TensorFlow. We will use this Python script to train a face attandance detector and review the results.
+In this project, we will discuss about our Face Recognition Attandance System which will detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset using Keras and TensorFlow. We will use this Python script to train a face attandance detector and review the results.
 
 We will proceed to implement two additional Python scripts by using:
 
 -- Detect face attandance in images
 -- Detect face attandance in real-time video streams
 
-We’ll wrap up the post by looking at the results of applying our face attandance detector.
-
+We will wrap up the post by looking at the results of applying our face attandance detector.
 
 There is Three-phase of face attandance detector as shown in Figure 2:
 
