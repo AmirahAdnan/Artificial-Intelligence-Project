@@ -67,6 +67,7 @@ Figure 1 shows the AI output of detecting face for attandance.
 </p>
 
 
+
 ## 3.0  DATASET
 
 In this project, we will discuss about our Face Recognition Attandance System which will detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset using Keras and TensorFlow. We will use this Python script to train a face attandance detector and review the results.
@@ -80,6 +81,8 @@ We will proceed to implement two additional Python scripts by using:
 We will wrap up the post by looking at the results of applying our face attandance detector.
 
 
+
+
 There is Three-phase of face attandance detector as shown in Figure 2:
 
 <p align="center">
@@ -89,6 +92,7 @@ There is Three-phase of face attandance detector as shown in Figure 2:
 <p align="center">
 Figure 2: Phases and individual steps for building a face attendance detector with computer vision and deep learning.
 </p>
+  
   
   
 In order to train a custom face attandance detector, we need to break our project into three distinct phases, each with its own respective sub-steps :
@@ -111,6 +115,8 @@ Our face attandance detection dataset as shown in Figure 3:
 <p align="center">
 Figure 3: A face attendance detection dataset consists of their own face id images.
 </p>
+
+
 
 ## 4.0   PROJECT STRUCTURE
 
@@ -147,9 +153,14 @@ The following directory is our structure of our project:
 - └── AttendanceProject.py
 
 - 2 directories, 28 files
+-
 Two Python scripts:
-	:label: face-train.py: Accepts our input dataset.
-	:label: AttendanceProject.py: Using your webcam, this script applies attendance face recognition to every frame in the stream.
+
+:label: face-train.py: Accepts our input dataset.
+
+:label: AttendanceProject.py: Using your webcam, this script applies attendance face recognition to every frame in the stream.
+
+
 
 
 ## 5.0   TRAINING THE FACE ATTANDANCE DETECTION
