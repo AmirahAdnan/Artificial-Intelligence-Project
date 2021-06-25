@@ -168,12 +168,9 @@ Example:
 |--------------------------------------------------------------------------------------------------------------------|
 |"C:\Users\Hamizah Yusni\PycharmProjects\FaceRecognitionAttendance\venv\Scripts\python.exe"|
 |"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/AttendanceProject.py"|
-
-|['Hamizah binti Yusni (B031910035).png', 'Nurfarzana Amirah binti Adnan (B031910024).jpg',|
-|'Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG', 'Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg']|
-|['Hamizah binti Yusni (B031910035)', 'Nurfarzana Amirah binti Adnan (B031910024)',|
-|'Nurul Hidayati Rahmah binti Mohd Hashim (B031910380)', 'Syaqirah Nur Fatihah binti Sazalee (B031910082)']|
-
+|['Hamizah binti Yusni (B031910035).png', 'Nurfarzana Amirah binti Adnan (B031910024).jpg','Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG', 'Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg']|
+|['Hamizah binti Yusni (B031910035)', 'Nurfarzana Amirah binti Adnan (B031910024)','Nurul Hidayati Rahmah binti Mohd Hashim (B031910380)', 'Syaqirah Nur Fatihah binti Sazalee (B031910082)']|
+| |
 |Encoding Complete|
 
 ![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
