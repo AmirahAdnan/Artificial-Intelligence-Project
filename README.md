@@ -47,13 +47,11 @@ _____________________________________________________________
 :pushpin: To detect face attendance in real-time video stream.
 
 :pushpin: To record attendance of identified student.
-
-_____________________________________________________________ 
-<br /> <br />
- 
+<br /> 
+_____________________________________________________________
 ##  2.0 BACKGROUND 
-
-With the advancement of technologies each and every day, humanity is slowly going towards contactless everything. It is quite evident that the future ahead of us will become so much advance that maybe 90%+ things that we are doing right now will be either automated or become contactless. One such advancement will be the facial recognition technology or the FR tech, which is the prime focus of this article. 
+_____________________________________________________________ 
+<br /> With the advancement of technologies each and every day, humanity is slowly going towards contactless everything. It is quite evident that the future ahead of us will become so much advance that maybe 90%+ things that we are doing right now will be either automated or become contactless. One such advancement will be the facial recognition technology or the FR tech, which is the prime focus of this article. 
 
 Facial recognition technology is a system or software which is capable enough to identify an identity of family members, friends or anyone by analyzing an image or video footage. Some of the technologies or software are so advanced that even blurred pictures are sometimes rendered enough and analyzed to know the identity of the person.  In order to overcome human limitations on memorizing each of human face, this face recognition attendance system would be able to do a face recognition and store the image in database with high processing speed. <br /> <br />
 
