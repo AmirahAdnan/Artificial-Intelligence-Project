@@ -174,7 +174,6 @@ We will run our script at PyCharm and webcam will prompt out:
 
 <br />
 
-_____________________________________________________________
 
 :camera: Example 1 : Python command to execute & evaluate the student, Hamizah picture based on the dataset.
 
