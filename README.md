@@ -359,12 +359,12 @@ Result 1:
 </p>
 
 <p align="center">
-Figure 8: Face Recognition Attendance in real-time video streams.
+Figure 8: Face Recognition Attendance in real-time video streams
 </p>
 
 <br /> <br />
 
-In Figure 8, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+In Figure 8,  you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
 
 <br />
 
@@ -376,12 +376,12 @@ Result 2:
 </p>
 
 <p align="center">
-Figure 9: Face Recognition Attendance in real-time video streams.
+Figure 9: Face Recognition Attendance in real-time video streams
 </p>
 
 <br /> <br />
 
-In Figure 9, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+In Figure 9, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions of two faces as well.)
 
 <br />
 
@@ -394,72 +394,73 @@ Result 3:
 </p>
 
 <p align="center">
-Figure 10: Face Recognition Attendance in real-time video streams.
+Figure 10: Face Recognition Attendance in real-time video streams
 </p>
 
 <br /> <br />
 
-In Figure 10, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+In Figure 10, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions of three faces as well.)
 
 <br />
 
 
-Result 4: ![Result4](https://user-images.githubusercontent.com/66559983/123521406-02f0ed80-d6e9-11eb-8fad-e2a17034d751.png)
+Result 4: 
 
 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123521406-02f0ed80-d6e9-11eb-8fad-e2a17034d751.png" alt="Result">
 </p>
 
 <p align="center">
-Figure 11: Face Recognition Attendance in real-time video streams.
+Figure 11: Face Recognition Attendance in real-time video streams
 </p>
 
 <br /> <br />
 
-In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions of four faces as well.)
 
 <br />
 
 
-Result 5:
+Result 5: 
 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123522019-05554680-d6ed-11eb-8d56-8a51ff320f46.png" alt="Result">
 </p>
 
 <p align="center">
-Figure 12: Face Recognition Attendance in real-time video streams.
-</p>
-
-<br /> <br />
-
-In Figure 12, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
-
-
-Result 6:
-
-
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
-</p>
-
-<p align="center">
-Figure 13: Face Recognition Attendance in real-time video streams.
+Figure 12: Face Recognition Attendance in real-time video streams
 </p>
 
 <br /> <br />
 
-In Figure 13, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+In Figure 12, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions of a face wearing face mask as well.)
+
+
+Result 6: 
+
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123522040-4cdbd280-d6ed-11eb-823b-dc22e17816b8.png" alt="Result">
+</p>
+
+<p align="center">
+Figure 13: Face Recognition Attendance in .csv file for attendance record.
+</p>
+
+<br /> <br />
+
+In Figure 13, you can see that our Face Recognition Attendance detector is saving the attendance list after stop the system. This output can also be open using Microsoft Excel.
 
 
 <br /> <br /> 
 _____________________________________________________________
 ## 7.0   PROJECT PRESENTATION 
 
-In this project, creating a face attandance detector using OpenCV, Keras/TensorFlow, and Deep Learning is very important to learn and expert. <br /> <br />
+In this project, creating a face attandance detector using OpenCV is very important to learn and expert. <br /> <br />
 
 
 :computer_mouse: OpenCV 
@@ -482,13 +483,13 @@ We then took this face attandance classifier and applied it to both images and r
 
 
 
-Our face attandance detector is accurate, and since we used the MobileNetV2 architecture, it is also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
-
 This is the link of video presentation from our group : 
 
 [![Presentation](https://user-images.githubusercontent.com/66559983/123519312-f2d31100-d6dc-11eb-86af-0802d9a021b7.PNG)](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
 
 
+Acknowledgements
+https://www.youtube.com/watch?v=sz25xxF_AVE
 
 
 
