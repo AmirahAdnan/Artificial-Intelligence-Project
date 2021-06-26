@@ -173,7 +173,7 @@ We will run our script at PyCharm and webcam will prompt out:
 <br />
 _____________________________________________________________
 
-Example 1:
+- Example 1 : Python command to execute & evaluate the student, Hamizah picture based on the dataset.
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -189,8 +189,7 @@ Example 1:
 |    |
 |[True] [0.58169129]|
 
-- Example 1 is python command to execute & evaluate the student, Hamizah picture based on the dataset.
-
+<br />
 
 
 **Output 1:** 
@@ -203,7 +202,7 @@ Example 1:
 Figure 4: Program output after a student, Hamizah compare her face with her own face and other students.
 </p>
 
-<br /> <br />
+<br />
 
 - Hamizah got her own face as the lowest face distance, which means that the system is accurate.
 
@@ -212,7 +211,8 @@ Figure 4: Program output after a student, Hamizah compare her face with her own 
 _____________________________________________________________
 
 
-Example 2:
+Example 2: Python command to execute & evaluate the student, Amirah picture based on the dataset.
+
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -228,9 +228,7 @@ Example 2:
 |    |
 |[False] [0.74549696]|
 
-- Example 2 is python command to execute & evaluate the student, Amirah picture based on the dataset.
-
-
+<br />
 
 **Output 2:**
 
@@ -242,7 +240,7 @@ Example 2:
 Figure 5: Program output after a student, Amirah compare her face with her own face and other students.
 </p>
 
-<br /> <br />
+<br />
 
 - Amirah got her own face as the lowest face distance, which means that the system is accurate.
 
@@ -251,7 +249,7 @@ Figure 5: Program output after a student, Amirah compare her face with her own f
 _____________________________________________________________
 
 
-Example 3:
+- Example 3: Python command to execute & evaluate the student, Hidayati picture based on the dataset.
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -267,9 +265,7 @@ Example 3:
 |    |
 |[False] [0.64222176]|
 
-- Example 3 is python command to execute & evaluate the student, Hidayati picture based on the dataset.
-
-
+<br />
 
 **Output 3:**
 
@@ -282,7 +278,7 @@ Example 3:
 Figure 6: Program output after a student, Hidayati compare her face with her own face and other students.
 </p>
 
-<br /> <br />
+<br /> 
 
 - Hidayati got her own face as the lowest face distance, which means that the system is accurate.
 
@@ -290,7 +286,7 @@ Figure 6: Program output after a student, Hidayati compare her face with her own
 _____________________________________________________________
 
 
-Example 4:
+Example 4: Python command to execute & evaluate the student, Syaqirah picture based on the dataset.
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -306,8 +302,6 @@ Example 4:
 |    |
 |[True] [0.31279863]|
 
-- Example 4 is python command to execute & evaluate the student, Syaqirah picture based on the dataset.
-
 
 
 **Output 4:**
@@ -321,60 +315,13 @@ Example 4:
 Figure 7: Program output after a student, Syaqirah compare her face with her own face and other students.
 </p>
 
-<br /> <br />
+<br /> 
 
-Syaqirah got her own face as the lowest face distance, which means that the system is accurate.
-
-
-_____________________________________________________________
-
-_____________________________________________________________
-
-
-**Output 5:**
-
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449387-34e15180-d60e-11eb-951e-f06503cbe025.png" alt="Training 5">
-</p>
-
-<p align="center">
-Figure 8: Program output after some students put their face at the same time at the webcam.
-</p>
-
-_____________________________________________________________
-
-
-**Output 6:**
-
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449394-36127e80-d60e-11eb-8f4d-a749cf6f4506.png" alt="Training 6">
-</p>
-
-<p align="center">
-Figure 9: Program output after a student put their face while wearing face mask at the webcam.
-</p>
+- Syaqirah got her own face as the lowest face distance, which means that the system is accurate.
 
 
 _____________________________________________________________
 
-
-**Output 7:**
-
-
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123459606-192f7880-d619-11eb-9493-1426e92d795f.png" alt="Training 7">
-</p>
-
-<p align="center">
-Figure 10: Program output after stop the system which shown the attendance list on .csv file.
-</p>
-
-<br /> <br />
-
-This output can also be open using Microsoft Excel.
-
-
-_____________________________________________________________
 
 
 However, sometimes it shown a wrong name to the face. To overcome this situation:
