@@ -488,8 +488,7 @@ This is the link of video presentation from our group :
 [![Presentation](https://user-images.githubusercontent.com/66559983/123519312-f2d31100-d6dc-11eb-86af-0802d9a021b7.PNG)](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
 
 
-Acknowledgements
-https://www.youtube.com/watch?v=sz25xxF_AVE
+Acknowledgements : https://www.youtube.com/watch?v=sz25xxF_AVE
 
 
 
