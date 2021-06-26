@@ -351,6 +351,62 @@ You can then launch the face recognition attendance detector in real-time video 
 |-----------------------------------------------------------------------------------------------------------------|
 
 
+Result 1:
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123521358-c1f8d900-d6e8-11eb-9d1f-a343c9f88c91.png" alt="Result">
+</p>
+
+<p align="center">
+Figure 8: Face Recognition Attendance in real-time video streams.
+</p>
+
+<br /> <br />
+
+In Figure 8, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+
+<br />
+
+Result 2:
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123521380-d3da7c00-d6e8-11eb-935d-e53af1412d5b.png" alt="Result">
+</p>
+
+<p align="center">
+Figure 9: Face Recognition Attendance in real-time video streams.
+</p>
+
+<br /> <br />
+
+In Figure 9, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+
+<br />
+
+
+Result 3: 
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123521398-ece32d00-d6e8-11eb-83de-dad6bc0915e9.png" alt="Result">
+</p>
+
+<p align="center">
+Figure 10: Face Recognition Attendance in real-time video streams.
+</p>
+
+<br /> <br />
+
+In Figure 10, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+
+<br />
+
+
+Result 4: ![Result4](https://user-images.githubusercontent.com/66559983/123521406-02f0ed80-d6e9-11eb-8fad-e2a17034d751.png)
+
+
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
@@ -363,6 +419,41 @@ Figure 11: Face Recognition Attendance in real-time video streams.
 <br /> <br />
 
 In Figure 11, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+
+<br />
+
+
+Result 5:
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
+</p>
+
+<p align="center">
+Figure 12: Face Recognition Attendance in real-time video streams.
+</p>
+
+<br /> <br />
+
+In Figure 12, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+
+
+Result 6:
+
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123453322-fc437700-d611-11eb-9ee9-fc4d5eed2fac.png" alt="Result">
+</p>
+
+<p align="center">
+Figure 13: Face Recognition Attendance in real-time video streams.
+</p>
+
+<br /> <br />
+
+In Figure 13, you can see that our Face Recognition Attendance detector is capable of running in real-time (and is correct in its predictions as well.)
+
 
 <br /> <br /> 
 _____________________________________________________________
