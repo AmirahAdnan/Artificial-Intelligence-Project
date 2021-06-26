@@ -355,11 +355,8 @@ Our face attandance detector is accurate, and since we used the MobileNetV2 arch
 This is the link of video presentation from our group : https://youtu.be/pbvcZpHbYLA
 
 
-![image alt text](https://example.com/link-to-image)
-[link text](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
 
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
 
 
 
