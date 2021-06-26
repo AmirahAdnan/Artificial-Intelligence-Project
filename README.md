@@ -200,12 +200,12 @@ Example 1:
 </p>
 
 <p align="center">
-Figure 4: Program output after a student put their face at the webcam.
+Figure 4: Program output after a student, Hamizah compare her face with her own face and other students.
 </p>
 
 <br /> <br />
 
-Hamizah got her own face as the lowest face distance, which means that the system is accurate.
+- Hamizah got her own face as the lowest face distance, which means that the system is accurate.
 
 
 
@@ -244,7 +244,7 @@ Figure 5: Program output after a student, Amirah compare her face with her own f
 
 <br /> <br />
 
-Amirah got her own face as the lowest face distance, which means that the system is accurate.
+- Amirah got her own face as the lowest face distance, which means that the system is accurate.
 
 
 
@@ -274,7 +274,7 @@ Example 3:
 **Output 3:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123520254-6b889c00-d6e2-11eb-8295-fbefc4cc614b.png" alt="Training 3">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123520729-a4c20b80-d6e4-11eb-98d9-79e957d57dfb.png" alt="Training 3">
 </p>
 
 
@@ -284,7 +284,7 @@ Figure 6: Program output after a student, Hidayati compare her face with her own
 
 <br /> <br />
 
-Hidayati got her own face as the lowest face distance, which means that the system is accurate.
+- Hidayati got her own face as the lowest face distance, which means that the system is accurate.
 
 
 _____________________________________________________________
