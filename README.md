@@ -59,7 +59,7 @@ Facial recognition technology is a system or software which is capable enough to
 In this project, our focus will be on one of the many applications of facial recognition technology, which is **Face Recognition Attendance System**.
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123439769-a4524380-d604-11eb-859f-689e8bd42dca.png" alt="example">
+  <img width="700" src="(https://user-images.githubusercontent.com/66559983/123519992-0e401b00-d6e1-11eb-94e6-a161160e9be6.png" alt="example">
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ We will wrap up the post by looking at the results of applying our face attandan
 There is Three-phase of face attandance detector as shown in Figure 2:
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/66559983/123443079-23954680-d608-11eb-8d2c-f7f7a96c0250.png" alt="Figure 2">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123520019-40ea1380-d6e1-11eb-8504-9a79f1327446.png" alt="Figure 2">
 </p>
 
 <p align="center">
@@ -147,10 +147,10 @@ The following directory is our structure of our project:
 - │ ├──  Syaqirah3.jpeg
 - │ └── Syaqirah4.jpeg
 - ├──  ImagesAttendance
-- │ ├──  Hamizah binti Yusni (B0319190035).png
-- │ ├──  Nurfarzana Amirah binti Adnan (B031910024).jpg
-- │ ├──  Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG
-- │ └── Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg
+- │ ├──  Hamizah binti Yusni - (B0319190035).png
+- │ ├──  Nurfarzana Amirah binti Adnan - (B031910024).jpg
+- │ ├──  Nurul Hidayati Rahmah binti Mohd Hashim - (B031910380).JPG
+- │ └── Syaqirah Nur Fatihah binti Sazalee - (B031910082).jpeg
 - ├──  face-train.py
 - ├──  Attendance.csv
 - └── AttendanceProject.py
@@ -169,74 +169,164 @@ _____________________________________________________________
 
 Let’s try this face recognition attendance out on some of our own images now.
 We will run our script at PyCharm and webcam will prompt out:
-Example of python command to execute & evaluate the student at the webcam based on the dataset :
+
+<br />
+_____________________________________________________________
+
+Example 1:
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
 |    |
 |"C:\Users\Hamizah Yusni\PycharmProjects\FaceRecognitionAttendance\venv\Scripts\python.exe"|
-|"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/AttendanceProject.py"|
+|"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/face-train.py"|
 |    |
-|['Hamizah binti Yusni (B031910035).png', 'Nurfarzana Amirah binti Adnan (B031910024).jpg','Nurul Hidayati Rahmah binti Mohd Hashim (B031910380).JPG', 'Syaqirah Nur Fatihah binti Sazalee (B031910082).jpeg']|
+|[True] [0.40082248]|
 |    |
-|['Hamizah binti Yusni (B031910035)', 'Nurfarzana Amirah binti Adnan (B031910024)','Nurul Hidayati Rahmah binti Mohd Hashim (B031910380)', 'Syaqirah Nur Fatihah binti Sazalee (B031910082)']|
+|[True] [0.57053437]|
 |    |
-|Encoding Complete|
+|[True] [0.63591632]|
+|    |
+|[True] [0.58169129]|
 
+- Example 1 is python command to execute & evaluate the student, Hamizah picture based on the dataset.
 
-_____________________________________________________________
 
 
 **Output 1:** 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449307-1f6c2780-d60e-11eb-885d-dd215861ddb8.png" alt="Training 1">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123520173-00d76080-d6e2-11eb-9d96-3110eafb4b4a.png" alt="Training 1">
 </p>
 
 <p align="center">
 Figure 4: Program output after a student put their face at the webcam.
 </p>
 
+<br /> <br />
+
+Hamizah got her own face as the lowest face distance, which means that the system is accurate.
+
+
 
 _____________________________________________________________
+
+
+Example 2:
+
+|                                                      CODE                                                          |
+|--------------------------------------------------------------------------------------------------------------------|
+|    |
+|"C:\Users\Hamizah Yusni\PycharmProjects\FaceRecognitionAttendance\venv\Scripts\python.exe"|
+|"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/face-train.py"|
+|    |
+|[True] [0.52788831]|
+|    |
+|[True] [0.28396551]|
+|    |
+|[True] [0.5750813]|
+|    |
+|[False] [0.74549696]|
+
+- Example 2 is python command to execute & evaluate the student, Amirah picture based on the dataset.
+
 
 
 **Output 2:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449352-2c891680-d60e-11eb-8bf9-3d594dd11399.png" alt="Training 2">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123520189-1482c700-d6e2-11eb-9971-86bcbda3eca3.png" alt="Training 2">
 </p>
 
 <p align="center">
-Figure 5: Program output after a student put their face at the webcam.
+Figure 5: Program output after a student, Amirah compare her face with her own face and other students.
 </p>
+
+<br /> <br />
+
+Amirah got her own face as the lowest face distance, which means that the system is accurate.
+
 
 
 _____________________________________________________________
+
+
+Example 3:
+
+|                                                      CODE                                                          |
+|--------------------------------------------------------------------------------------------------------------------|
+|    |
+|"C:\Users\Hamizah Yusni\PycharmProjects\FaceRecognitionAttendance\venv\Scripts\python.exe"|
+|"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/face-train.py"|
+|    |
+|[False] [0.63179693]|
+|    |
+|[True] [0.56561713]|
+|    |
+|[True] [0.32760166]|
+|    |
+|[False] [0.64222176]|
+
+- Example 3 is python command to execute & evaluate the student, Hidayati picture based on the dataset.
+
 
 
 **Output 3:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449364-301c9d80-d60e-11eb-9f86-9d2fdcce0162.png" alt="Training 3">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123520254-6b889c00-d6e2-11eb-8295-fbefc4cc614b.png" alt="Training 3">
 </p>
+
 
 <p align="center">
-Figure 6: Program output after a student put their face at the webcam.
+Figure 6: Program output after a student, Hidayati compare her face with her own face and other students.
 </p>
 
+<br /> <br />
+
+Hidayati got her own face as the lowest face distance, which means that the system is accurate.
+
+
 _____________________________________________________________
+
+
+Example 4:
+
+|                                                      CODE                                                          |
+|--------------------------------------------------------------------------------------------------------------------|
+|    |
+|"C:\Users\Hamizah Yusni\PycharmProjects\FaceRecognitionAttendance\venv\Scripts\python.exe"|
+|"C:/Users/Hamizah Yusni/PycharmProjects/FaceRecognitionAttendance/face-train.py"|
+|    |
+|[False] [0.6255457]|
+|    |
+|[False] [0.76353881]|
+|    |
+|[False] [0.64580961]|
+|    |
+|[True] [0.31279863]|
+
+- Example 4 is python command to execute & evaluate the student, Syaqirah picture based on the dataset.
+
 
 
 **Output 4:**
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/66559983/123449378-327ef780-d60e-11eb-8758-158517732e23.png" alt="Training 4">
+  <img width="500" src="https://user-images.githubusercontent.com/66559983/123520261-7c391200-d6e2-11eb-8eb2-fe0b04afe3b6.png" alt="Training 4">
 </p>
 
+
 <p align="center">
-Figure 7: Program output after a student put their face at the webcam.
+Figure 7: Program output after a student, Syaqirah compare her face with her own face and other students.
 </p>
+
+<br /> <br />
+
+Syaqirah got her own face as the lowest face distance, which means that the system is accurate.
+
+
+_____________________________________________________________
 
 _____________________________________________________________
 
