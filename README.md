@@ -26,7 +26,7 @@ Project Title: Face Recognition Attendance System
 
 :clipboard: Traditional student attendance marking
 
-:clipboard: technique is often facing a lot of trouble and take time.
+:clipboard: Traditional technique is often facing a lot of trouble and take time.
 
 :clipboard: Traditional method are usually disturbing learning and teaching process.
 
