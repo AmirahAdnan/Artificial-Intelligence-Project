@@ -58,8 +58,9 @@ Facial recognition technology is a system or software which is capable enough to
 
 In this project, our focus will be on one of the many applications of facial recognition technology, which is **Face Recognition Attendance System**.
 
+
 <p align="center">
-  <img width="700" src="(https://user-images.githubusercontent.com/66559983/123521045-c1f7d980-d6e6-11eb-98c3-dc3a21bcd510.png" alt="example">
+  <img width="700" src="https://user-images.githubusercontent.com/66559983/123521045-c1f7d980-d6e6-11eb-98c3-dc3a21bcd510.png" alt="Background">
 </p>
 
 
