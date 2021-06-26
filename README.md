@@ -72,7 +72,7 @@ Figure 1 shows the AI output of detecting face for attandance.
 _____________________________________________________________
 ## 3.0  DATASET
 
-In this project, we will discuss about our Face Recognition Attandance System which will detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset using Keras and TensorFlow. We will use this Python script to train a face attandance detector and review the results.
+In this project, we will discuss about our Face Recognition Attandance System which will detailing how our computer vision or deep learning pipeline will be implemented. From there, we will review the dataset to train our custom face attandance detector. The implementation of a Python script will be shown in this article to train a face attandance detector on our dataset. We will use this Python script to train a face attandance detector and review the results.
 
 We will proceed to implement two additional Python scripts by using:
 
@@ -101,7 +101,7 @@ In order to train a custom face attandance detector, we need to break our projec
 
 :black_nib: Face Detection and Data Gathering : Here we will focus on loading our face attandance detection dataset from disk.
 
-:black_nib: Train the Recognizer : Training a model (using Keras/TensorFlow) on this dataset, and then serializing the face attandance detector to disk.
+:black_nib: Train the Recognizer : Training of the dataset, and then serializing the face attandance detector to disk.
 
 :black_nib: Face Recognition : Once the face attandance detector is trained, we can then move on to loading the attandance detector, performing face detection, and then classifying each face with their own specific id number.
 
