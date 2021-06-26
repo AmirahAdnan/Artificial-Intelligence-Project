@@ -352,9 +352,7 @@ We then took this face attandance classifier and applied it to both images and r
 
 Our face attandance detector is accurate, and since we used the MobileNetV2 architecture, it is also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
 
-This is the link of video presentation from our group : https://youtu.be/pbvcZpHbYLA
-
-
+This is the link of video presentation from our group : 
 
 [![Presentation](https://user-images.githubusercontent.com/66559983/123519312-f2d31100-d6dc-11eb-86af-0802d9a021b7.PNG)](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
 
