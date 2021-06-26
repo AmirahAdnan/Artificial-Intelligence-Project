@@ -356,7 +356,7 @@ This is the link of video presentation from our group : https://youtu.be/pbvcZpH
 
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
+[![Presentation](https://user-images.githubusercontent.com/66559983/123519312-f2d31100-d6dc-11eb-86af-0802d9a021b7.PNG)](https://youtu.be/pbvcZpHbYLA "Group H - Face Recognition Attendance System (Presentation & Demo)")
 
 
 
