@@ -59,8 +59,9 @@ Facial recognition technology is a system or software which is capable enough to
 In this project, our focus will be on one of the many applications of facial recognition technology, which is **Face Recognition Attendance System**.
 
 <p align="center">
-  <img width="700" src="(https://user-images.githubusercontent.com/66559983/123519992-0e401b00-d6e1-11eb-94e6-a161160e9be6.png" alt="example">
+  <img width="700" src="(https://user-images.githubusercontent.com/66559983/123521045-c1f7d980-d6e6-11eb-98c3-dc3a21bcd510.png" alt="example">
 </p>
+
 
 <p align="center">
 Figure 1 shows the AI output of detecting face for attandance.
@@ -171,9 +172,10 @@ Let’s try this face recognition attendance out on some of our own images now.
 We will run our script at PyCharm and webcam will prompt out:
 
 <br />
+
 _____________________________________________________________
 
-- Example 1 : Python command to execute & evaluate the student, Hamizah picture based on the dataset.
+:camera: Example 1 : Python command to execute & evaluate the student, Hamizah picture based on the dataset.
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -206,12 +208,12 @@ Figure 4: Program output after a student, Hamizah compare her face with her own 
 
 - Hamizah got her own face as the lowest face distance, which means that the system is accurate.
 
-
+<br />
 
 _____________________________________________________________
 
 
-Example 2: Python command to execute & evaluate the student, Amirah picture based on the dataset.
+:camera: Example 2: Python command to execute & evaluate the student, Amirah picture based on the dataset.
 
 
 |                                                      CODE                                                          |
@@ -244,12 +246,12 @@ Figure 5: Program output after a student, Amirah compare her face with her own f
 
 - Amirah got her own face as the lowest face distance, which means that the system is accurate.
 
-
+<br />
 
 _____________________________________________________________
 
 
-- Example 3: Python command to execute & evaluate the student, Hidayati picture based on the dataset.
+:camera: Example 3: Python command to execute & evaluate the student, Hidayati picture based on the dataset.
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -282,11 +284,12 @@ Figure 6: Program output after a student, Hidayati compare her face with her own
 
 - Hidayati got her own face as the lowest face distance, which means that the system is accurate.
 
+<br />
 
 _____________________________________________________________
 
 
-Example 4: Python command to execute & evaluate the student, Syaqirah picture based on the dataset.
+:camera: Example 4: Python command to execute & evaluate the student, Syaqirah picture based on the dataset.
 
 |                                                      CODE                                                          |
 |--------------------------------------------------------------------------------------------------------------------|
@@ -319,6 +322,7 @@ Figure 7: Program output after a student, Syaqirah compare her face with her own
 
 - Syaqirah got her own face as the lowest face distance, which means that the system is accurate.
 
+<br />
 
 _____________________________________________________________
 
